@@ -1,3 +1,3 @@
 # LFE Bits
 
-Miscellaneous Lisp Flavored Erlang [LFE] Code
+Miscellaneous [Lisp Flavored Erlang](http://lfe.io/) [LFE] Code
